@@ -1,4 +1,4 @@
-This is an Eclipse Java Project , So please imprt the files or you can use the Source files to compile the Project , 
-Where RemoteControl.java is the Class which contains main function ,
-Please put your instruction set in the droneinput.txt , if you want to use another file as an input kindly rename the filename
-in the file reading function from droneinput.txt to "yourfile".txt 
+This is an Eclipse Java Project , So please import the files or you can use the Source folder which contains all the .java files to compile the Project , 
+Where RemoteControl.java is the main Class  ,
+Please put your instruction set in the droneinput.txt , if you want to use another file as an input kindly rename the filename in the file reading function defined in RemoteControl.java,
+from droneinput.txt to "yourfile".txt 
